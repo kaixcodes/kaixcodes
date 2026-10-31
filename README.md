@@ -1,2 +1,3 @@
 # kaixcodes
-my personal website & development portfolio :)
+Welcome to my GitHub! 
+My portfolio website it available on GitHub Pages!
